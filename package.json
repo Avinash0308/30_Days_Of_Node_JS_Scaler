@@ -1,0 +1,16 @@
+{
+  "name": "30_days_of_node_js_scaler",
+  "version": "1.0.0",
+  "description": "Will be posting solution to problems given by scaler under this challenge on the daily basis.",
+  "main": "Day1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^21.6.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
